@@ -1,0 +1,94 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "reg no":101,
+      "name": "Akash",
+      "email":"akash@gmail.com",
+      "DOB":"21/09/1999",
+      "Department":"CS",
+      "phone no":6334245635
+    },
+    {
+      "id": 2,
+      "reg no":102,
+      "name": "Bhuvanesh",
+      "email":"bhuvanesh@gmail.com",
+      "DOB":"11/09/2003",
+      "Department":"EEE",
+      "phone no":6334246635
+    },
+    {
+      "id": 3,
+      "reg no":103,
+      "name": "Sudhakar",
+      "email":"sudhakar@gmail.com",
+      "DOB":"31/09/2007",
+      "Department":"Mechanical",
+      "phone no":6334245893
+    },
+    {
+      "id": 4,
+      "reg no":104,
+      "name": "Vinusree",
+      "email":"vinusree@gmail.com",
+      "DOB":"21/09/2003",
+      "Department":"ECE",
+      "phone no":6334245639
+    },
+    {
+      "id": 5,
+      "reg no":105,
+      "name": "Jiju",
+      "email":"jiju@gmail.com",
+      "DOB":"21/10/1996",
+      "Department":"ECE",
+      "phone no":633924563
+    },
+    {
+      "id": 6,
+      "reg no":106,
+      "name": "Balaji",
+      "email":"balaji@gmail.com",
+      "DOB":"21/09/1993",
+      "Department":"ECE",
+      "phone no":6334445639
+    },
+    {
+      "id": 7,
+      "reg no":107,
+      "name": "Manikandan",
+      "email":"mani@gmail.com",
+      "DOB":"21/09/1998",
+      "Department":"CIVIL",
+      "phone no":6339245639
+    },
+    {
+      "id": 8,
+      "reg no":108,
+      "name": "Rafi",
+      "email":"rafi@gmail.com",
+      "DOB":"21/09/2001",
+      "Department":"CS",
+      "phone no":6334045639
+    },
+    {
+      "id": 9,
+      "reg no":109,
+      "name": "Hari",
+      "email":"hari@gmail.com",
+      "DOB":"21/09/2000",
+      "Department":"MECH",
+      "phone no":6334245639
+    },
+    {
+      "id": 10,
+      "reg no":110,
+      "name": "Surya",
+      "email":"surya@gmail.com",
+      "DOB":"21/09/1993",
+      "Department":"CS",
+      "phone no":6434245639
+    }
+    
+  ]}
