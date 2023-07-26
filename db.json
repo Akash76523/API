@@ -89,6 +89,176 @@
       "DOB":"21/09/1993",
       "Department":"CS",
       "phone no":6434245639
-    }
-    
+    },
+    {
+      "id": 11,
+      "reg no":111,
+      "name": "Jeeva",
+      "email":"jeeva@gmail.com",
+      "DOB":"21/08/1993",
+      "Department":"CS",
+      "phone no":6934245639
+    },
+    {
+      "id": 12,
+      "reg no":112,
+      "name": "Naveen",
+      "email":"naveen@gmail.com",
+      "DOB":"21/09/1893",
+      "Department":"EEE",
+      "phone no":6434205639
+    },
+    {
+      "id": 13,
+      "reg no":113,
+      "name": "Gowtham",
+      "email":"gowtham@gmail.com",
+      "DOB":"21/09/1997",
+      "Department":"ECE",
+      "phone no":6034245639
+    },
+    {
+      "id": 14,
+      "reg no":114,
+      "name": "Jecin",
+      "email":"jecin@gmail.com",
+      "DOB":"21/09/1999",
+      "Department":"CS",
+      "phone no":6034945639
+    },
+    {
+      "id": 15,
+      "reg no":115,
+      "name": "Dhina",
+      "email":"dhina@gmail.com",
+      "DOB":"21/09/1996",
+      "Department":"ECE",
+      "phone no":6034295639
+    },
+    {
+      "id": 16,
+      "reg no":116,
+      "name": "Arun",
+      "email":"arun@gmail.com",
+      "DOB":"21/10/1997",
+      "Department":"MECH",
+      "phone no":6034240639
+    },
+    {
+      "id": 17,
+      "reg no":117,
+      "name": "Bharath",
+      "email":"bharath@gmail.com",
+      "DOB":"21/09/1999",
+      "Department":"ECE",
+      "phone no":6034205639
+    },
+    {
+      "id": 18,
+      "reg no":118,
+      "name": "Dinesh",
+      "email":"dinesh@gmail.com",
+      "DOB":"29/09/1997",
+      "Department":"CS",
+      "phone no":6034045639
+    },
+    {
+      "id": 19,
+      "reg no":119,
+      "name": "Vidhya",
+      "email":"vidhya@gmail.com",
+      "DOB":"21/09/1999",
+      "Department":"CS",
+      "phone no":6034205639
+    },
+    {
+      "id": 20,
+      "reg no":120,
+      "name": "Swetha",
+      "email":"swetha@gmail.com",
+      "DOB":"21/09/2000",
+      "Department":"ECE",
+      "phone no":6034249639
+    },
+    {
+      "id": 21,
+      "reg no":120,
+      "name": "Swetha",
+      "email":"swetha@gmail.com",
+      "DOB":"21/09/2000",
+      "Department":"ECE",
+      "phone no":6034249639
+    },{
+      "id": 20,
+      "reg no":120,
+      "name": "Swetha",
+      "email":"swetha@gmail.com",
+      "DOB":"21/09/2000",
+      "Department":"ECE",
+      "phone no":6034249639
+    },{
+      "id": 20,
+      "reg no":120,
+      "name": "Swetha",
+      "email":"swetha@gmail.com",
+      "DOB":"21/09/2000",
+      "Department":"ECE",
+      "phone no":6034249639
+    },{
+      "id": 20,
+      "reg no":120,
+      "name": "Swetha",
+      "email":"swetha@gmail.com",
+      "DOB":"21/09/2000",
+      "Department":"ECE",
+      "phone no":6034249639
+    },{
+      "id": 20,
+      "reg no":120,
+      "name": "Swetha",
+      "email":"swetha@gmail.com",
+      "DOB":"21/09/2000",
+      "Department":"ECE",
+      "phone no":6034249639
+    },{
+      "id": 20,
+      "reg no":120,
+      "name": "Swetha",
+      "email":"swetha@gmail.com",
+      "DOB":"21/09/2000",
+      "Department":"ECE",
+      "phone no":6034249639
+    },{
+      "id": 20,
+      "reg no":120,
+      "name": "Swetha",
+      "email":"swetha@gmail.com",
+      "DOB":"21/09/2000",
+      "Department":"ECE",
+      "phone no":6034249639
+    },{
+      "id": 20,
+      "reg no":120,
+      "name": "Swetha",
+      "email":"swetha@gmail.com",
+      "DOB":"21/09/2000",
+      "Department":"ECE",
+      "phone no":6034249639
+    },{
+      "id": 20,
+      "reg no":120,
+      "name": "Swetha",
+      "email":"swetha@gmail.com",
+      "DOB":"21/09/2000",
+      "Department":"ECE",
+      "phone no":6034249639
+    },{
+      "id": 20,
+      "reg no":120,
+      "name": "Swetha",
+      "email":"swetha@gmail.com",
+      "DOB":"21/09/2000",
+      "Department":"ECE",
+      "phone no":6034249639
+    },
   ]}
