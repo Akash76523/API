@@ -188,77 +188,86 @@
       "DOB":"21/09/2000",
       "Department":"ECE",
       "phone no":6034249639
-    },{
-      "id": 20,
-      "reg no":120,
-      "name": "Swetha",
-      "email":"swetha@gmail.com",
-      "DOB":"21/09/2000",
-      "Department":"ECE",
-      "phone no":6034249639
-    },{
-      "id": 20,
-      "reg no":120,
-      "name": "Swetha",
-      "email":"swetha@gmail.com",
-      "DOB":"21/09/2000",
-      "Department":"ECE",
-      "phone no":6034249639
-    },{
-      "id": 20,
-      "reg no":120,
-      "name": "Swetha",
-      "email":"swetha@gmail.com",
-      "DOB":"21/09/2000",
-      "Department":"ECE",
-      "phone no":6034249639
-    },{
-      "id": 20,
-      "reg no":120,
-      "name": "Swetha",
-      "email":"swetha@gmail.com",
-      "DOB":"21/09/2000",
-      "Department":"ECE",
-      "phone no":6034249639
-    },{
-      "id": 20,
-      "reg no":120,
-      "name": "Swetha",
-      "email":"swetha@gmail.com",
-      "DOB":"21/09/2000",
-      "Department":"ECE",
-      "phone no":6034249639
-    },{
-      "id": 20,
-      "reg no":120,
-      "name": "Swetha",
-      "email":"swetha@gmail.com",
-      "DOB":"21/09/2000",
-      "Department":"ECE",
-      "phone no":6034249639
-    },{
-      "id": 20,
-      "reg no":120,
-      "name": "Swetha",
-      "email":"swetha@gmail.com",
-      "DOB":"21/09/2000",
-      "Department":"ECE",
-      "phone no":6034249639
-    },{
-      "id": 20,
-      "reg no":120,
-      "name": "Swetha",
-      "email":"swetha@gmail.com",
-      "DOB":"21/09/2000",
-      "Department":"ECE",
-      "phone no":6034249639
-    },{
-      "id": 20,
-      "reg no":120,
-      "name": "Swetha",
-      "email":"swetha@gmail.com",
-      "DOB":"21/09/2000",
-      "Department":"ECE",
-      "phone no":6034249639
     },
+    {
+    "id": 22,
+    "reg no": 123,
+    "name": "John",
+    "email": "john@example.com",
+    "DOB": "05/12/1995",
+    "Department": "Computer Science",
+    "phone no": 6031234567
+  },
+  {
+    "id": 23,
+    "reg no": 123,
+    "name": "Alice",
+    "email": "alice@example.com",
+    "DOB": "15/07/1990",
+    "Department": "Electrical Engineering",
+    "phone no": 6039876543
+  },
+  {
+    "id": 24,
+    "reg no": 124,
+    "name": "Bob",
+    "email": "bob@example.com",
+    "DOB": "20/03/1993",
+    "Department": "Mechanical Engineering",
+    "phone no": 6038765432
+  },
+  {
+    "id": 25,
+    "reg no": 125,
+    "name": "Emily",
+    "email": "emily@example.com",
+    "DOB": "10/09/1998",
+    "Department": "Civil Engineering",
+    "phone no": 6037654321
+  },
+  {
+    "id": 26,
+    "reg no": 126,
+    "name": "Michael",
+    "email": "michael@example.com",
+    "DOB": "25/06/1992",
+    "Department": "Chemical Engineering",
+    "phone no": 6031111111
+  },
+  {
+    "id": 27,
+    "reg no": 127,
+    "name": "Sophia",
+    "email": "sophia@example.com",
+    "DOB": "12/11/1997",
+    "Department": "Aerospace Engineering",
+    "phone no": 6032222222
+  },
+  {
+    "id": 28,
+    "reg no": 128,
+    "name": "David",
+    "email": "david@example.com",
+    "DOB": "30/04/1994",
+    "Department": "Biomedical Engineering",
+    "phone no": 6033333333
+  },
+  {
+    "id": 29,
+    "reg no": 129,
+    "name": "Olivia",
+    "email": "olivia@example.com",
+    "DOB": "18/10/1999",
+    "Department": "Environmental Engineering",
+    "phone no": 6034444444
+  },
+  {
+    "id": 30,
+    "reg no": 130,
+    "name": "Vignesh",
+    "email": "vignesh@example.com",
+    "DOB": "18/10/2000",
+    "Department": "Environmental Engineering",
+    "phone no": 6034444844
+  }
   ]}
